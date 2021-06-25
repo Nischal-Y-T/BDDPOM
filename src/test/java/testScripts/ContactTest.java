@@ -32,6 +32,7 @@ public class ContactTest extends TestBase{
 	}
 	@AfterTest
 	public void tearDown() {
+		System.out.println("git");
 		
 	}
 
