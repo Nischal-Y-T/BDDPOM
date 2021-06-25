@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15583" started-at="2021-06-21T12:10:43 IST" finished-at="2021-06-21T12:10:58 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15583" started-at="2021-06-21T12:10:43 IST" finished-at="2021-06-21T12:10:58 IST">
+      <class name="testScripts.ContactTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testScripts.ContactTest@48503868]" name="setup" is-config="true" duration-ms="6199" started-at="2021-06-21T12:10:43 IST" finished-at="2021-06-21T12:10:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="validateuser()[pri:1, instance:testScripts.ContactTest@48503868]" name="validateuser" duration-ms="8989" started-at="2021-06-21T12:10:49 IST" finished-at="2021-06-21T12:10:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateuser -->
+        <test-method status="PASS" signature="createNewcontact()[pri:2, instance:testScripts.ContactTest@48503868]" name="createNewcontact" duration-ms="327" started-at="2021-06-21T12:10:58 IST" finished-at="2021-06-21T12:10:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewcontact -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testScripts.ContactTest@48503868]" name="tearDown" is-config="true" duration-ms="1" started-at="2021-06-21T12:10:58 IST" finished-at="2021-06-21T12:10:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testScripts.ContactTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
